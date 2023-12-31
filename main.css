@@ -7,6 +7,7 @@
   margin: 0;
   padding: 0;
   width: 375px;
+  height: 100vh;
   float: left;
   background-color: #ebb134;
   position: fixed;
