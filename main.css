@@ -5,6 +5,12 @@
   overflow: auto;
 }
 
+.sidebar a {
+  display: block;
+  color: red;
+  padding: 20px;
+}
+
 .sidebar a.active {
   background-color: black;
   color: white;
