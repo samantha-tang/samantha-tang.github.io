@@ -1,7 +1,13 @@
+.content {
+  margin-left: 375px;
+  padding: 20px;
+}
+
 .sidebar {
   margin: 0;
   padding: 0;
-  width: 350px;
+  width: 375px;
+  float: left;
   background-color: #ebb134;
   position: fixed;
   overflow: auto;
@@ -9,7 +15,7 @@
 
 .sidebar a {
   display: block;
-  color: red;
+  color: blue;
   padding: 20px;
 }
 
