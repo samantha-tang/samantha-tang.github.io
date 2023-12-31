@@ -1,0 +1,16 @@
+.sidebar {
+  width: 350px;
+  background-color: #ebb134;
+  position: fixed;
+  overflow: auto;
+}
+
+.sidebar a.active {
+  background-color: black;
+  color: white;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: red;
+  color: white;
+}
