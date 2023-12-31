@@ -25,6 +25,6 @@
 }
 
 .sidebar a:hover:not(.active) {
-  background-color: red;
+  background-color: #e6bc63;
   color: white;
 }
