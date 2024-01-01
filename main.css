@@ -12,8 +12,9 @@
 }
 
 .sidebar a {
+  margin-top: 35vh;
   display: block;
-  color: #d19719;
+  color: #a1720d;
   padding: 20px;
   text-decoration: none;
 }
