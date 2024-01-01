@@ -12,10 +12,9 @@
 }
 
 .sidebar a {
-  margin-top: 35vh;
   display: block;
   color: #a1720d;
-  padding: 20px;
+  padding: 100px;
   text-decoration: none;
 }
 
