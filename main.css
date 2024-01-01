@@ -13,8 +13,9 @@
 
 .sidebar a {
   display: block;
+  margin: 150px;
   color: #a1720d;
-  padding: 100px;
+  padding: 50px;
   text-decoration: none;
 }
 
