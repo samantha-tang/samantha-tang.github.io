@@ -4,14 +4,11 @@
 }
 
 .sidebar {
-  margin: 0px;
-  padding: 0px;
   width: 375px;
   height: 100vh;
   float: left;
   background-color: #ebb134;
   position: fixed;
-  overflow: auto;
 }
 
 .sidebar a {
