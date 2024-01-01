@@ -1,3 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap');
+
+input[lang=ja] {
+    font-family: 'Noto Serif JP', serif;
+    font-size:14px;
+}
+
+.header {
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    font-size: 25pt;
+    padding-top: 15px;
+}
+
 .content {
   margin-left: 375px;
   padding: 100px;
@@ -35,6 +50,6 @@
 }
 
 .sidebar a.profile {
-    pointer-events: none !important;
-    text-align: center !important;
+    pointer-events: none;
+    text-align: center;
 }
