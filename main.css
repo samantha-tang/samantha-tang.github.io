@@ -15,6 +15,7 @@
   display: block;
   color: #d19719;
   padding: 20px;
+  text-decoration: none;
 }
 
 .sidebar a.active {
