@@ -1,21 +1,26 @@
 .content {
   margin-left: 375px;
-  padding: 50px;
+  padding: 100px;
 }
 
 .sidebar {
   width: 375px;
   height: 100vh;
-  float: left;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   background-color: #ebb134;
   position: fixed;
 }
 
 .sidebar a {
   display: block;
-  margin: 150px;
   color: #a1720d;
   padding: 50px;
+  font-size: 30px;
   text-decoration: none;
 }
 
@@ -28,3 +33,5 @@
   background-color: #e6bc63;
   color: white;
 }
+
+
