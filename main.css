@@ -35,6 +35,6 @@
 }
 
 .sidebar a.profile {
-    pointer-events: none;
-    text-align: center;
+    pointer-events: none !important;
+    text-align: center !important;
 }
