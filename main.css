@@ -16,7 +16,7 @@
 
 .sidebar a {
   display: block;
-  color: blue;
+  color: #d19719;
   padding: 20px;
 }
 
@@ -27,5 +27,5 @@
 
 .sidebar a:hover:not(.active) {
   background-color: #e6bc63;
-  color: #d19719;
+  color: white;
 }
